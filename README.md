@@ -1,13 +1,15 @@
 ### Hi there 👋 I'm [Juan Espinosa!](https://github.com/JuanEspinosa-Dev/JuanEspinosa-Dev/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 I'm an Analyst and Software Developer
+
+
 
 - 👨‍💻 I'm currently studying web development and building projects using React.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-
+  
 ---
 
 ##### Languages I use
