@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm an Analyst and Software Developer
+I'm an Analyst and Software Developer
 
 - 👨‍💻 I'm currently studying web development and building projects using React.
 - 📚 Learning everything about Frontend and Backend technologies 😅
